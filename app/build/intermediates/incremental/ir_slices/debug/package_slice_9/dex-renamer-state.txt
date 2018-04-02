@@ -1,0 +1,4 @@
+#Sat Mar 31 14:45:06 EEST 2018
+base.0=D\:\\AndroidStudio\\WorkSpace\\PecodeSoftware\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex
